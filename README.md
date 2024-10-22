@@ -69,6 +69,7 @@ The **Random Forest** model performed exceptionally well and was the best model 
 - **Area Under the Curve (AUC)**: 1.00
 
 The model achieved perfect scores on all key metrics, demonstrating its ability to correctly classify both legitimate and fraudulent transactions with 100% accuracy.
+
 ---
 
 ## Conclusion
